@@ -1,0 +1,3488 @@
+[
+  {
+    "Ticker":"AAGR11",
+    "DY":"-",
+    "Nome":"ASSET BANK AGRONEG\u00d3CIOS FIAGRO IMOBILIARIO",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"AAZQ11",
+    "DY":"16,45",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"ABCP11",
+    "DY":"8,62",
+    "Nome":"Grand Plaza Shopping",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"AFCR11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"AFHI11",
+    "DY":"12,89",
+    "Nome":"AF INVEST CRI",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"AFOF11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"AGRX11",
+    "DY":"17,55",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"AIEC11",
+    "DY":"16,54",
+    "Nome":"AUTONOMY EDIF\u00cdCIOS CORPORATIVOS FUND. INV. IMOB.",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"AJFI11",
+    "DY":"0,73",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"ALMI11",
+    "DY":"-",
+    "Nome":"Torre Almirante",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"ALZC11",
+    "DY":"-",
+    "Nome":"FII ALI CRED",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"ALZM11",
+    "DY":"11,93",
+    "Nome":"ALIANZA FOF",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"ALZR11",
+    "DY":"8,34",
+    "Nome":"Alianza Trust Renda Imobili\u00e1ria",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"AMAZ11",
+    "DY":"-",
+    "Nome":"BLOXS AMAZON GREEN LEG FDO INV NAS CAD PROD AGRO",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"ANCR11B",
+    "DY":"1,96",
+    "Nome":"Ancar CI",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"APTO11",
+    "DY":"12,30",
+    "Nome":"NAVI RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Tijolo: Im\u00f3veis Residenciais"
+  },
+  {
+    "Ticker":"APXM11",
+    "DY":"2,55",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"APXR11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"APXU11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"AQLL11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"ARCT11",
+    "DY":"16,59",
+    "Nome":"RIZA ARCTIUM REAL ESTATE FDO INV IMOB",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"ARFI11B",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"AROA11",
+    "DY":"3,64",
+    "Nome":"AROEIRA 333 RENDA LOG\u00cdSTICA FDO DE INV IMOB",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"ARRI11",
+    "DY":"13,55",
+    "Nome":"FDO. INV. IMOB. \u00c1TRIO REIT RECEB\u00cdVEIS IMOBILI\u00c1RIOS",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"ARXD11",
+    "DY":"10,52",
+    "Nome":"ARX DOVER RECEB\u00cdVEIS FDO DE INV IMOB",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"ASMT11",
+    "DY":"1,25",
+    "Nome":"CORE METROPOLIS FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"ASRF11",
+    "DY":"2,54",
+    "Nome":"ASA RETROFITS I FDO DE INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"ATCR11",
+    "DY":"-",
+    "Nome":"HAZ",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"ATSA11",
+    "DY":"0,18",
+    "Nome":"Hedge Atrium Shopping Santo Andr\u00e9",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"ATSA11B",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"ATWN11",
+    "DY":"-",
+    "Nome":"FDO. INV. IMOB. A\u2013TOWN",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"AURB11",
+    "DY":"5,64",
+    "Nome":"FII ALI URB",
+    "Categoria":"Tijolo: Im\u00f3veis Comerciais - Outros"
+  },
+  {
+    "Ticker":"BARI11",
+    "DY":"11,14",
+    "Nome":"FDO INV IMOB BARIGUI RENDIMENTOS IMOB I FII",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"BBFI11B",
+    "DY":"14,59",
+    "Nome":"BB Progressivo",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"BBFO11",
+    "DY":"10,98",
+    "Nome":"BB FUNDO DE FUNDOS",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"BBGO11",
+    "DY":"13,53",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"BBIM11",
+    "DY":"-",
+    "Nome":"BB Receb\u00edveis Imobili\u00e1rios",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"BBPO11",
+    "DY":"10,29",
+    "Nome":"BB Progressivo II",
+    "Categoria":"Tijolo: Ag\u00eancias de Bancos"
+  },
+  {
+    "Ticker":"BBRC11",
+    "DY":"11,37",
+    "Nome":"BB Renda Corporativa",
+    "Categoria":"Tijolo: Ag\u00eancias de Bancos"
+  },
+  {
+    "Ticker":"BBVJ11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"BCFF11",
+    "DY":"9,22",
+    "Nome":"BTG Fundo de Fundos",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"BCIA11",
+    "DY":"9,31",
+    "Nome":"Bradesco Carteira Imobili\u00e1ria Ativa",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"BCRI11",
+    "DY":"12,53",
+    "Nome":"Banestes Receb\u00edveis Imobili\u00e1rios",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"BETW11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"BICE11",
+    "DY":"12,66",
+    "Nome":"BRIO CR\u00c9DITO ESTRUTURADO",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"BICR11",
+    "DY":"11,44",
+    "Nome":"INTER T\u00cdTULOS IMOB. FDO INV. IMOB.",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"BIME11",
+    "DY":"13,45",
+    "Nome":"BRIO MULTIESTRAT\u00c9GIA FUNDO DE INVESTIMENTO IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"BIPD11",
+    "DY":"1,05",
+    "Nome":"FII BRIO IV",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"BIPE11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"BLCA11",
+    "DY":"15,75",
+    "Nome":"BLUEMACAW CATUA\u00cd TRIPLE A FDO DE INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"BLCP11",
+    "DY":"0,62",
+    "Nome":"BLUECAP RENDA LOG. FDO INV. IMOB. - FII",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"BLMC11",
+    "DY":"10,83",
+    "Nome":"BLUEMACAW CR\u00c9DITO IMOBILI\u00c1RIO",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"BLMG11",
+    "DY":"20,20",
+    "Nome":"BLUEMACAW LOG\u00cdSTICA",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"BLMO11",
+    "DY":"1.077,02",
+    "Nome":"BLUEMACAW OFFICE FUND II - FDO. INVEST. IMOB.",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"BLMR11",
+    "DY":"8,79",
+    "Nome":"BLUEMACAW RENDA + FOF",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"BLOG11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"BLUR11",
+    "DY":"13,02",
+    "Nome":"FII BLUE REC",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"BMII11",
+    "DY":"-",
+    "Nome":"Brasilio Machado",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"BMLC11",
+    "DY":"11,12",
+    "Nome":"BM Brascan Lajes Corporativas",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"BMLC11B",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"BNFS11",
+    "DY":"14,19",
+    "Nome":"Banrisul Novas Fronteiras",
+    "Categoria":"Tijolo: Ag\u00eancias de Bancos"
+  },
+  {
+    "Ticker":"BPFF11",
+    "DY":"10,14",
+    "Nome":"Brasil Plural Absoluto Fundo de Fundos",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"BPLC11",
+    "DY":"-",
+    "Nome":"FII BASILICA",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"BPML11",
+    "DY":"1,20",
+    "Nome":"FDO INV IMOB BTG PACTUAL SHOPPINGS",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"BPRP11",
+    "DY":"10,35",
+    "Nome":"FDO INV IMOB - FII BRLPROP",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"BRCO11",
+    "DY":"8,15",
+    "Nome":"BRESCO LOG\u00cdSTICA - FDO INV IMOB",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"BRCR11",
+    "DY":"8,81",
+    "Nome":"BTG Pactual Corporate Office",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"BREV11",
+    "DY":"4,99",
+    "Nome":"BRAZIL REAL ESTATE VICTORY FUND I - FDO. INV. IMOB",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"BRHT11B",
+    "DY":"-",
+    "Nome":"BR Hot\u00e9is",
+    "Categoria":"Tijolo: Hot\u00e9is"
+  },
+  {
+    "Ticker":"BRIM11",
+    "DY":"22,88",
+    "Nome":"BRIO REAL ESTATE II - FDO INV IMOB",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"BRIP11",
+    "DY":"17,89",
+    "Nome":"BRIO REAL ESTATE III",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"BRIX11",
+    "DY":"-",
+    "Nome":"FII BRIX",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"BRLA11",
+    "DY":"9,35",
+    "Nome":"FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO BRL PROP II",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"BROF11",
+    "DY":"9,23",
+    "Nome":"BRPR CORPORATE OFFICES FDO DE INV IMOB",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"BRSE11",
+    "DY":"-",
+    "Nome":"BR7 SENADO FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"BTAG11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"BTAL11",
+    "DY":"11,72",
+    "Nome":"BTG PACTUAL AGRO LOG\u00cdSTICA",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"BTCI11",
+    "DY":"12,26",
+    "Nome":"",
+    "Categoria":"Papel: "
+  },
+  {
+    "Ticker":"BTCR11",
+    "DY":"1,02",
+    "Nome":"BTG Pactual Cr\u00e9dito Imobili\u00e1rio",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"BTHI11",
+    "DY":"22,95",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"BTLG11",
+    "DY":"8,77",
+    "Nome":"BTG PACTUAL LOGISTICA FDO INV IMOB - FII",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"BTRA11",
+    "DY":"14,57",
+    "Nome":"FDO INV IMOB BTG PACTUAL TERRAS AGR\u00cdCOLAS",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"BTSG11",
+    "DY":"7,71",
+    "Nome":"BTSP I FDO. INVEST. IMOB",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"BTSI11",
+    "DY":"8,93",
+    "Nome":"BTSP II FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"BTWR11",
+    "DY":"6,08",
+    "Nome":"BTOWERS FII",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"BVAR11",
+    "DY":"14,21",
+    "Nome":"Brasil Varejo",
+    "Categoria":"Tijolo: Varejo"
+  },
+  {
+    "Ticker":"BZEL11",
+    "DY":"-",
+    "Nome":"BARZEL FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"BZLI11",
+    "DY":"-",
+    "Nome":"Brazil Realty",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"CACR11",
+    "DY":"16,80",
+    "Nome":"CARTESIA FII",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"CARE11",
+    "DY":"-",
+    "Nome":"Brazilian Graveyard and Death Care",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"CBOP11",
+    "DY":"4,72",
+    "Nome":"Castello Branco Office Park",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"CCLB11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"CCME11",
+    "DY":"10,04",
+    "Nome":"FII CANUMA",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"CCRF11",
+    "DY":"8,16",
+    "Nome":"CANVAS CRI",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"CENU11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"CEOC11",
+    "DY":"14,11",
+    "Nome":"Cyrela Commercial Properties",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"CFHI11",
+    "DY":"0,46",
+    "Nome":"CF2 FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"CFII11",
+    "DY":"6,46",
+    "Nome":"FII CF3 IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"CIXM11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"CIXR11",
+    "DY":"-",
+    "Nome":"CIX RENDIMENTO FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"CJCT11",
+    "DY":"2,03",
+    "Nome":"CIDADE JARDIM CONTINENAL TOWER",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"CJFI11",
+    "DY":"-",
+    "Nome":"FDO INV IMOB CJ",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"CLIN11",
+    "DY":"1,07",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"CNES11",
+    "DY":"3,95",
+    "Nome":"CENESP",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"COPP11",
+    "DY":"0,73",
+    "Nome":"CORPORATE OFFICE PROPERTIES FII - FDO DE INV IMOB",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"CORM11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"CPFF11",
+    "DY":"8,71",
+    "Nome":"CAPIT\u00c2NIA REIT FOF - FDO. INVEST. IMOB",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"CPFO11",
+    "DY":"-",
+    "Nome":"CAPIT\u00c2NIA REIT FOF - FDO INV IMOB II",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"CPOF11",
+    "DY":"0,73",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"CPSH11",
+    "DY":"6,50",
+    "Nome":"SHOPPINGS AAA FDO DE INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"CPTR11",
+    "DY":"16,41",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"CPTS11",
+    "DY":"10,46",
+    "Nome":"Capitania Securities II",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"CRAA11",
+    "DY":"13,70",
+    "Nome":"SPARTA FIAGRO FDO INV NAS CAD PROD AGRO",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"CRFF11",
+    "DY":"9,26",
+    "Nome":"CAIXA RIO BRAVO FDO DE FDOS INV IMOB II",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"CSMC11",
+    "DY":"-",
+    "Nome":"COSMIC FDO DE INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"CTNP11",
+    "DY":"-",
+    "Nome":"FII FED HY",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"CTXT11",
+    "DY":"-",
+    "Nome":"Centro T\u00eaxtil Internacional",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"CVBI11",
+    "DY":"12,14",
+    "Nome":"FDO INV. IMOB. VBI CRI",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"CVPR11",
+    "DY":"-",
+    "Nome":"FII CVPAR",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"CXAG11",
+    "DY":"10,88",
+    "Nome":"FII CAIXA AG",
+    "Categoria":"Tijolo: Ag\u00eancias de Bancos"
+  },
+  {
+    "Ticker":"CXCE11B",
+    "DY":"10,70",
+    "Nome":"Caixa Cedae",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"CXCI11",
+    "DY":"11,85",
+    "Nome":"FDO DE INVST IMOB CAIXA CARTEIRA IMOBILI\u00c1RIA",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"CXCO11",
+    "DY":"11,74",
+    "Nome":"FDO. INV. IMOB. CAIXA IM\u00d3VEIS CORPORATIVOS",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"CXRI11",
+    "DY":"8,38",
+    "Nome":"Caixa Rio Bravo",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"CXTL11",
+    "DY":"7,96",
+    "Nome":"Caixa TRX Log\u00edstica Renda",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"CYCR11",
+    "DY":"12,62",
+    "Nome":"CYRELA CR\u00c9DITO - FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"CYLD11",
+    "DY":"-",
+    "Nome":"FII CYLD",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"DAMT11B",
+    "DY":"7,21",
+    "Nome":"DIAMANTE FDO INV IMOB",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"DCRA11",
+    "DY":"16,01",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"DEVA11",
+    "DY":"18,94",
+    "Nome":"DEVANT RECEB\u00cdVEIS IMOBILI\u00c1RIOS",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"DLMT11",
+    "DY":"-",
+    "Nome":"DEL MONTE AJAX FDO INV IMOB",
+    "Categoria":"Tijolo: Varejo"
+  },
+  {
+    "Ticker":"DMAC11",
+    "DY":"37,65",
+    "Nome":"",
+    "Categoria":"Tijolo: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"DOMC11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"DOVL11B",
+    "DY":"6,02",
+    "Nome":"DOVEL FDO INV IMOB",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"DPRO11",
+    "DY":"96,95",
+    "Nome":"FII DEVA PRO",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"DRIT11B",
+    "DY":"9,51",
+    "Nome":"Multigest\u00e3o Renda Comercial",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"DVFF11",
+    "DY":"10,77",
+    "Nome":"FDO. INVEST. IMOB. DEVANT FOF IMOBILI\u00c1RIOS",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"EDFO11B",
+    "DY":"9,03",
+    "Nome":"Edif\u00edcio Ouroinvest",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"EDGA11",
+    "DY":"5,46",
+    "Nome":"Edif\u00edcio Galeria",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"EGAF11",
+    "DY":"16,90",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"EGYR11",
+    "DY":"-",
+    "Nome":"ENERGY RESORT FDO. INVEST. IMOB",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"ELDO11B",
+    "DY":"13,96",
+    "Nome":"Eldorado",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"EQIN11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"EQIR11",
+    "DY":"13,72",
+    "Nome":"EQI RECEB\u00cdVEIS IMOBILI\u00c1RIOS FDO DE INV IMOBILI\u00c1RIO",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"ERCR11",
+    "DY":"0,18",
+    "Nome":"ESTOQUE RESIDENCIAL E COMERCIAL RJ",
+    "Categoria":"Tijolo: Varejo"
+  },
+  {
+    "Ticker":"ERPA11",
+    "DY":"7,28",
+    "Nome":"EUROPA 105 - FDO INV IMOB",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"ESTQ11",
+    "DY":"-",
+    "Nome":"FDO INV IMOB POLO ESTOQUE II",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"EURO11",
+    "DY":"8,76",
+    "Nome":"EUROPAR",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"EVBI11",
+    "DY":"9,21",
+    "Nome":"VBI CONSUMO ESSEN",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"EXES11",
+    "DY":"10,81",
+    "Nome":"FII EXES",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"FAED11",
+    "DY":"12,17",
+    "Nome":"Anhanguera Educacional",
+    "Categoria":"Tijolo: Educacional"
+  },
+  {
+    "Ticker":"FAGL11",
+    "DY":"-",
+    "Nome":"FII FATOR GP",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"FAMB11B",
+    "DY":"-",
+    "Nome":"Edif\u00edcio Almirante Barroso",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"FAOE11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"FARU11",
+    "DY":"-",
+    "Nome":"FATOR RENDA URBANA FDO DE INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"FATN11",
+    "DY":"10,93",
+    "Nome":"FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO ATHENA I",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"FCFL11",
+    "DY":"8,46",
+    "Nome":"Campus Faria Lima",
+    "Categoria":"Tijolo: Educacional"
+  },
+  {
+    "Ticker":"FEXC11",
+    "DY":"25,95",
+    "Nome":"BTG Pactual Fundo de CRI",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"FGAA11",
+    "DY":"16,56",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"FGPM11",
+    "DY":"-",
+    "Nome":"FDO INVEST IMOB GRAND PLAZA MALL",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"FIGS11",
+    "DY":"8,85",
+    "Nome":"General Shopping Ativo e Renda",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"FIIB11",
+    "DY":"7,99",
+    "Nome":"Industrial do Brasil",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"FIIP11B",
+    "DY":"9,40",
+    "Nome":"RB Capital Renda I",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"FINF11",
+    "DY":"-",
+    "Nome":"Infra Real State",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"FISC11",
+    "DY":"7,34",
+    "Nome":"FDO INV IMOB SC 401",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"FISD11",
+    "DY":"-",
+    "Nome":"S\u00e3o Domingos",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"FIVN11",
+    "DY":"-",
+    "Nome":"Vida Nova",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"FIXX11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"FLCR11",
+    "DY":"13,64",
+    "Nome":"FARIA LIMA CAPITAL RECEB. IMOB. I",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"FLEM11",
+    "DY":"-",
+    "Nome":"051 AGRO FAZENDAS II FDO DE INV FIAGRO IMOBILI\u00c1RIO",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"FLFL11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"FLMA11",
+    "DY":"7,85",
+    "Nome":"Continental Square Faria Lima",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"FLRP11",
+    "DY":"7,79",
+    "Nome":"Floripa Shopping",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"FMOF11",
+    "DY":"1,03",
+    "Nome":"Memorial Office",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"FPAB11",
+    "DY":"10,47",
+    "Nome":"Projeto \u00c1gua Branca",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"FPNG11",
+    "DY":"8,26",
+    "Nome":"Pedra Negra Renda Imobili\u00e1ria",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"FRHY11",
+    "DY":"-",
+    "Nome":"FII FRONT",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"FTCE11B",
+    "DY":"6,86",
+    "Nome":"Oportunity",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"FVBI11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"FVPQ11",
+    "DY":"11,54",
+    "Nome":"Via Parque Shopping",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"FZDA11",
+    "DY":"1,84",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"FZDB11",
+    "DY":"-",
+    "Nome":"051 AGRO FAZIII FDO INV NAS CAD PROD AGRO",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"GALG11",
+    "DY":"10,94",
+    "Nome":"GUARDIAN LOGISTICA",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"GAME11",
+    "DY":"13,13",
+    "Nome":"FDO DE INVEST IMOB GUARDIAN MULTIESTRAT\u00c9GIA I",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"GCFF11",
+    "DY":"3,17",
+    "Nome":"GALAPAGOS FDO DE FDO - FII FDO INV. IMOB.",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"GCOI11",
+    "DY":"0,81",
+    "Nome":"GALAPAGOS SPECIAL OPORTUNITIES FII",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"GCRA11",
+    "DY":"18,74",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"GCRI11",
+    "DY":"13,94",
+    "Nome":"GALAPAGOS RECEB\u00cdVEIS IMOBILI\u00c1RIOS",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"GESE11B",
+    "DY":"87,27",
+    "Nome":"FDO INV IMOB GENERAL SEVERIANO",
+    "Categoria":"Tijolo: Educacional"
+  },
+  {
+    "Ticker":"GGRC11",
+    "DY":"10,11",
+    "Nome":"GGR Covepi Renda",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"GLOG11",
+    "DY":"11,98",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"GRLV11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"GRWA11",
+    "DY":"11,30",
+    "Nome":"GREENWICH AGRO FIAGRO",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"GSFI11",
+    "DY":"-",
+    "Nome":"GENERAL SHOP E OUTLETS DO BRASIL FDO INV IMOB",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"GTLG11",
+    "DY":"6,78",
+    "Nome":"GTIS BRAZIL LOGISTICS",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"GTWR11",
+    "DY":"10,88",
+    "Nome":"FDO INV IMOB GREEN TOWERS",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"GURB11",
+    "DY":"5,32",
+    "Nome":"",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"GVBI11",
+    "DY":"-",
+    "Nome":"FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO \u2013 VBI GREENPOWER",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"GZIT11",
+    "DY":"-",
+    "Nome":"FII GAZIT",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"HAAA11",
+    "DY":"10,27",
+    "Nome":"HEDGE AAA",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"HABT11",
+    "DY":"15,01",
+    "Nome":"HABITAT II - FDO INV IMOB",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"HBCR11",
+    "DY":"6,13",
+    "Nome":"HBC RENDA URBANA",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"HBRH11",
+    "DY":"7,14",
+    "Nome":"FDO.INVEST. IMOB. MULTI RENDA URBANA",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"HBTT11",
+    "DY":"-",
+    "Nome":"Habitat I",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"HCHG11",
+    "DY":"13,12",
+    "Nome":"HECTARE RECEB\u00cdVEIS HIGH GRADE",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"HCPR11",
+    "DY":"-",
+    "Nome":"FII HECT PRP",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"HCRA11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"HCRI11",
+    "DY":"10,87",
+    "Nome":"Hospital da Crian\u00e7a",
+    "Categoria":"Tijolo: Hospitalar"
+  },
+  {
+    "Ticker":"HCST11",
+    "DY":"-",
+    "Nome":"HECTARE DESENV. STUDENT HOUSING",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"HCTR11",
+    "DY":"15,44",
+    "Nome":"HECTARE CE - FDO INV IMOB",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"HDEL11",
+    "DY":"12,53",
+    "Nome":"FII HEDGE DV",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"HDOF11",
+    "DY":"-",
+    "Nome":"FII HEDGE OF",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"HFOF11",
+    "DY":"9,69",
+    "Nome":"Hedge Top FOFII 3",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"HGAG11",
+    "DY":"14,86",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"HGBS11",
+    "DY":"8,88",
+    "Nome":"CSHG Brasil Shopping",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"HGCR11",
+    "DY":"12,75",
+    "Nome":"CGHG Receb\u00edveis Imobili\u00e1rios",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"HGFF11",
+    "DY":"8,90",
+    "Nome":"CSHG IMOB. FOF - FDO INV. IMOB. - FII",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"HGIC11",
+    "DY":"11,32",
+    "Nome":"HGI CR\u00c9DITOS IMOBILI\u00c1RIOS",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"HGLG11",
+    "DY":"8,32",
+    "Nome":"CGHG Log\u00edstica",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"HGPO11",
+    "DY":"6,56",
+    "Nome":"CSHG PRIME OFFICES FDO INV IMOB",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"HGRE11",
+    "DY":"7,83",
+    "Nome":"CSHG Real Estate",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"HGRS11",
+    "DY":"-",
+    "Nome":"FII CSHG RSD",
+    "Categoria":"Tijolo: Im\u00f3veis Residenciais"
+  },
+  {
+    "Ticker":"HGRU11",
+    "DY":"8,74",
+    "Nome":"CSHG Renda Urbana",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"HILG11",
+    "DY":"-",
+    "Nome":"HIRE LOG I FDO DE INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"HLMB11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"HLOG11",
+    "DY":"9,37",
+    "Nome":"HEDGE LOG\u00cdSTICA FDO. INV. IMOB.",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"HMOC11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"HOFC11",
+    "DY":"12,68",
+    "Nome":"RB CAPITAL OFFICE INCOME FDO INV. IMOB.",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"HOSI11",
+    "DY":"9,13",
+    "Nome":"FDO. INV. IMOB. HOUSI",
+    "Categoria":"Tijolo: Im\u00f3veis Residenciais"
+  },
+  {
+    "Ticker":"HPDP11",
+    "DY":"7,36",
+    "Nome":"HEDGE SHOPPING PARQUE DOM PEDRO FDO. DE INV. IMOB.",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"HRDF11",
+    "DY":"-",
+    "Nome":"HEDGE REALTY DEVELOPMENT FDO INV IMOB",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"HREC11",
+    "DY":"12,01",
+    "Nome":"HEDGE RECEBIVEIS IMOB",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"HRES11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"HSAF11",
+    "DY":"12,30",
+    "Nome":"HSI ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBI",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"HSLG11",
+    "DY":"9,00",
+    "Nome":"HSI LOG\u00cdSTICA",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"HSML11",
+    "DY":"9,26",
+    "Nome":"HSI MALL FDO INV IMOB",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"HSRE11",
+    "DY":"6,96",
+    "Nome":"HSI RENDA IMOB",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"HTMX11",
+    "DY":"13,63",
+    "Nome":"Hotel Maxinvest",
+    "Categoria":"Tijolo: Hot\u00e9is"
+  },
+  {
+    "Ticker":"HUCG11",
+    "DY":"3,38",
+    "Nome":"FII UNIMED C",
+    "Categoria":"Tijolo: Hospitalar"
+  },
+  {
+    "Ticker":"HUSC11",
+    "DY":"9,04",
+    "Nome":"Hospital Unimed Sul Capixaba",
+    "Categoria":"Tijolo: Hospitalar"
+  },
+  {
+    "Ticker":"HUSI11",
+    "DY":"9,69",
+    "Nome":"HUSI FDO INV. IMOB.",
+    "Categoria":"Tijolo: Hospitalar"
+  },
+  {
+    "Ticker":"IAAG11",
+    "DY":"5,17",
+    "Nome":"INTER AMERRA - FIAGRO",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"IAGR11",
+    "DY":"0,94",
+    "Nome":"",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"IBCR11",
+    "DY":"14,00",
+    "Nome":"FDO DE INV IMOBILI\u00c1RIO DE CRI INTEGRAL BREI",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"IBFF11",
+    "DY":"0,45",
+    "Nome":"FDO INV. IMOB. FOF INTEGRAL BREI",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"ICNE11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"ICRI11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"IDFI11",
+    "DY":"21,23",
+    "Nome":"FII UNIDADES",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"IDGO11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"IDGR11",
+    "DY":"3,30",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"IDUA11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"IFID11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"IFIE11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"INDE11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"IRDM11",
+    "DY":"12,88",
+    "Nome":"Iridium Receb\u00edveis Imobili\u00e1rios",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"IRIM11",
+    "DY":"13,56",
+    "Nome":"IRIDIUM FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"ISCJ11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"ITIP11",
+    "DY":"12,11",
+    "Nome":"FII INTER IP",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"ITIT11",
+    "DY":"9,16",
+    "Nome":"FII INTER IT",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"ITRI11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"JASC11",
+    "DY":"5,84",
+    "Nome":"FII JASC REN",
+    "Categoria":"Tijolo: Im\u00f3veis Comerciais - Outros"
+  },
+  {
+    "Ticker":"JBFO11",
+    "DY":"6,13",
+    "Nome":"JBFO FOF FDO INV. IMOB.",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"JCCJ11",
+    "DY":"0,83",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"JCDA11",
+    "DY":"-",
+    "Nome":"FII JCDA I",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"JCDB11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"JFLL11",
+    "DY":"9,69",
+    "Nome":"JFL LIVING FDO. INV. IMOB.",
+    "Categoria":"Tijolo: Im\u00f3veis Residenciais"
+  },
+  {
+    "Ticker":"JGPX11",
+    "DY":"15,34",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"JPPA11",
+    "DY":"16,09",
+    "Nome":"JPP ALLOCATION MOGNO - FDO INV IMOB",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"JPPC11",
+    "DY":"0,09",
+    "Nome":"JPP Capital",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"JRDM11",
+    "DY":"3,80",
+    "Nome":"Shopping Jardim Sul",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"JSAF11",
+    "DY":"11,17",
+    "Nome":"JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBIL",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"JSRE11",
+    "DY":"7,35",
+    "Nome":"JS Real Estate Multigest\u00e3o",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"JTPR11",
+    "DY":"-",
+    "Nome":"JT Prev FII Desenvolvimento Habitacional",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"KCRE11",
+    "DY":"11,81",
+    "Nome":"FII KINEA CR",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"KDOL11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"KEVE11",
+    "DY":"0,45",
+    "Nome":"EVEN II KINEA",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"KFOF11",
+    "DY":"9,57",
+    "Nome":"FUNDO DE FDO INV IMOB KINEA FII",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"KINP11",
+    "DY":"65,42",
+    "Nome":"Even Permuta Kinea",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"KISU11",
+    "DY":"10,52",
+    "Nome":"KILIMA FIC FDO. IMOB. SUNO 30",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"KIVO11",
+    "DY":"16,30",
+    "Nome":"FII KIVO",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"KLOG11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"KNCA11",
+    "DY":"13,50",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"KNCR11",
+    "DY":"13,00",
+    "Nome":"Kinea Rendimentos Imobili\u00e1rios",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"KNHF11",
+    "DY":"4,75",
+    "Nome":"KINEA HEDGE FUND FDO DE INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"KNHY11",
+    "DY":"12,22",
+    "Nome":"Kinea High Yield CRI",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"KNIP11",
+    "DY":"9,86",
+    "Nome":"Kinea \u00cdndice de Pre\u00e7os",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"KNPR11",
+    "DY":"-",
+    "Nome":"FII KINEA PR",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"KNRE11",
+    "DY":"9,21",
+    "Nome":"Kinea II Real Estate Equity",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"KNRI11",
+    "DY":"7,36",
+    "Nome":"Kinea Renda Imobili\u00e1ria",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"KNSC11",
+    "DY":"11,15",
+    "Nome":"KINEA SECURITIES FDO. DE INV. IMOB. - FII",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"KNUQ11",
+    "DY":"6,24",
+    "Nome":"KINEA UNIQUE HY CDI FUNDO DE INVESTIMENTO IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"KOPA11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"KOPI11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"KORE11",
+    "DY":"0,63",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"LAFI11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"LASC11",
+    "DY":"7,49",
+    "Nome":"LEGATUS SHOPPINGS FDO. INV. IMOB. - FII",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"LATR11B",
+    "DY":"202,33",
+    "Nome":"Lateres",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"LAVF11",
+    "DY":"-",
+    "Nome":"FII LAVOURA",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"LFTT11",
+    "DY":"6,40",
+    "Nome":"LOFT II FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"LGCP11",
+    "DY":"8,58",
+    "Nome":"LOGCP INTER FDO INV IMOB",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"LIFE11",
+    "DY":"15,87",
+    "Nome":"FII LIFE",
+    "Categoria":"Tijolo: Im\u00f3veis Comerciais - Outros"
+  },
+  {
+    "Ticker":"LKDV11",
+    "DY":"-",
+    "Nome":"FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO DEVELOPMENT V1",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"LLAO11",
+    "DY":"3,12",
+    "Nome":"FII BS2",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"LOFT11B",
+    "DY":"-",
+    "Nome":"LOFT I - FDO INV IMOB",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"LPLP11",
+    "DY":"19,14",
+    "Nome":"FII LAGO PDR",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"LRDI11",
+    "DY":"-",
+    "Nome":"FII LEBLON",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"LSAG11",
+    "DY":"17,64",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"LSOI11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"LSPA11",
+    "DY":"12,72",
+    "Nome":"LESTE RIVA EQUITY PREFERENCIAL I",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"LTMT11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"LUGG11",
+    "DY":"8,34",
+    "Nome":"LUGGO FDO. INV. IMOB.",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"LVBI11",
+    "DY":"8,06",
+    "Nome":"FDO INV IMOB - VBI LOG\u00cdSTICO",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"MALL11",
+    "DY":"8,13",
+    "Nome":"Malls Brasil Plural",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"MANA11",
+    "DY":"13,89",
+    "Nome":"FII MANATI",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"MATV11",
+    "DY":"1,85",
+    "Nome":"MORE GEST\u00c3O ATIVA DE RECEB\u00cdVEIS FDO DE INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"MAVC11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"MAXR11",
+    "DY":"10,73",
+    "Nome":"Max Retail",
+    "Categoria":"Tijolo: Varejo"
+  },
+  {
+    "Ticker":"MBRF11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"MCCI11",
+    "DY":"11,71",
+    "Nome":"FDO INV. MAUA CAPITAL RECEBIVEIS IMOB. - FII",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"MCEM11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"MCHF11",
+    "DY":"12,20",
+    "Nome":"MAU\u00c1 CAPITAL HEDGE FUND",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"MCHY11",
+    "DY":"14,05",
+    "Nome":"FDO DE INV IMOB MAU\u00c1 CAPITAL HIGH YIELD - FII",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"MFAI11",
+    "DY":"9,32",
+    "Nome":"MERITO FDO. A\u00c7\u00d5ES IMOB. FII - FDO INV. IMOB.",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"MFCR11",
+    "DY":"50,62",
+    "Nome":"FII MERITO R",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"MFII11",
+    "DY":"12,91",
+    "Nome":"M\u00e9rito Desenvolvimento Imobili\u00e1rio",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"MGCR11",
+    "DY":"7,40",
+    "Nome":"MOGNO CRI HIGH GRADE",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"MGFF11",
+    "DY":"8,22",
+    "Nome":"Mogno Fundo de Fundos",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"MGHT11",
+    "DY":"17,25",
+    "Nome":"FDO. INV. IMOB. MOGNO HOTEIS",
+    "Categoria":"Tijolo: Hot\u00e9is"
+  },
+  {
+    "Ticker":"MGIM11",
+    "DY":"0,17",
+    "Nome":"",
+    "Categoria":"Tijolo: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"MGLC11",
+    "DY":"-",
+    "Nome":"MOGNO PROPERTIES",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"MGLG11",
+    "DY":"10,23",
+    "Nome":"MOGNO LOG\u00cdSTICA FUNDO DE INVEST. IMOBILIARIO",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"MGRI11",
+    "DY":"-",
+    "Nome":"FII MGRI",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"MINT11",
+    "DY":"1,23",
+    "Nome":"MINT EDUCACIONAL",
+    "Categoria":"Tijolo: Educacional"
+  },
+  {
+    "Ticker":"MMPD11",
+    "DY":"-",
+    "Nome":"FII MAUA MPD",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"MMVE11",
+    "DY":"-",
+    "Nome":"FII MMVE OP",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"MOFF11",
+    "DY":"-",
+    "Nome":"MULTIOFFICES 2 - FDO. INV. IMOB.",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"MORC11",
+    "DY":"14,28",
+    "Nome":"MORE RECEB\u00cdVEIS IMOBILI\u00c1RIOS FII",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"MORE11",
+    "DY":"8,08",
+    "Nome":"MORE REAL ESTATE FOF FII FDO. INV. IMOB.",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"MTOF11",
+    "DY":"-",
+    "Nome":"MULTIOFFICES 1",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"MTRS11",
+    "DY":"-",
+    "Nome":"FDO INV IMOB - BTG PACTUAL METROPOLIS",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"MVFI11",
+    "DY":"-",
+    "Nome":"FDO INV IMOB MV9",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"MXRF11",
+    "DY":"12,87",
+    "Nome":"Maxi Renda",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"MYDW11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"N4V111",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"NAVT11",
+    "DY":"14,14",
+    "Nome":"NAVI IMOBILI\u00c1RIO TOTAL RETURN",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"NCHB11",
+    "DY":"124,16",
+    "Nome":"FII NCH EQI",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"NCRA11",
+    "DY":"15,64",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"NCRI11",
+    "DY":"12,20",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"NEWL11",
+    "DY":"9,73",
+    "Nome":"Newport Log\u00edstica",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"NEWU11",
+    "DY":"3,10",
+    "Nome":"NEWPORT RENDA URBANA FDO INV IMOB",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"NEXG11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"NIVT11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"NPAR11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"NSLU11",
+    "DY":"9,62",
+    "Nome":"Hospital Nossa Sra Lourdes",
+    "Categoria":"Tijolo: Hospitalar"
+  },
+  {
+    "Ticker":"NVHO11",
+    "DY":"8,39",
+    "Nome":"Novo Horizonte",
+    "Categoria":"Tijolo: Hospitalar"
+  },
+  {
+    "Ticker":"NVIF11B",
+    "DY":"3,52",
+    "Nome":"FII NOVA I",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"OBAL11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"OCRE11",
+    "DY":"2,66",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"OGHY11",
+    "DY":"13,69",
+    "Nome":"\u00d3RAMA HIGH YIELD FDO INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"OIAG11",
+    "DY":"17,42",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"ONDV11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"ONEF11",
+    "DY":"21,76",
+    "Nome":"The One",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"OPTM11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"ORPD11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Tijolo: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"OUCY11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"OUFF11",
+    "DY":"12,12",
+    "Nome":"FDO INV IMOB - OURINVEST FUNDO DE FUNDOS",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"OUJP11",
+    "DY":"13,71",
+    "Nome":"OURINVEST JPP",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"OULG11",
+    "DY":"14,87",
+    "Nome":"FDO INV IMOB OURINVEST LOG\u00cdSTICA",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"OURE11",
+    "DY":"14,76",
+    "Nome":"Ourinvest Cyrela",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"PABY11",
+    "DY":"-",
+    "Nome":"Panamby",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"PATB11",
+    "DY":"-",
+    "Nome":"FDO INV IMOB - FII PATEO BANDEIRANTES",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"PATC11",
+    "DY":"20,08",
+    "Nome":"P\u00c1TRIA-EDIF\u00cdCIOS-CORPORATIVOS-FDO-INV-IMOB",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"PATL11",
+    "DY":"10,52",
+    "Nome":"P\u00c1TRIA LOG\u00cdSTICA FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"PBLV11",
+    "DY":"8,89",
+    "Nome":"PROLOGIS BRAZIL LOGISTICS VENTURE FDO INV IMOB",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"PCAS11",
+    "DY":"-",
+    "Nome":"FII PRAIA CS",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"PEMA11",
+    "DY":"18,88",
+    "Nome":"PERFORMA REAL ESTATE",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"PLCA11",
+    "DY":"15,56",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"PLCR11",
+    "DY":"13,00",
+    "Nome":"FDO INV. IMOB. PLURAL RECEBIVEIS",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"PLOG11",
+    "DY":"13,27",
+    "Nome":"PLURAL LOG\u00cdSTICA FDO. INV. IMOB.",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"PLRI11",
+    "DY":"6,54",
+    "Nome":"Polo Receb\u00edveis Imobili\u00e1rios I",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"PMFO11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"PMIS11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"PNCR11",
+    "DY":"5,37",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"PNDL11",
+    "DY":"0,96",
+    "Nome":"PANORAMA DESENVOLVIMENTO LOG\u00cdSTICO",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"PNLM11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"PNLN11",
+    "DY":"-",
+    "Nome":"FII LASTMILE",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"PNPR11",
+    "DY":"-",
+    "Nome":"PANORAMA PROPERTIES FDO. INVEST. IMOB.",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"PNRC11",
+    "DY":"11,17",
+    "Nome":"PANORAMA REAL ESTATE CR\u00c9DITO FDO INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"PORD11",
+    "DY":"13,50",
+    "Nome":"Polo Receb\u00edveis Imobili\u00e1rios II",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"PQAG11",
+    "DY":"9,21",
+    "Nome":"PARQUE ANHANGUERA FDO. INVEST. IMOB.",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"PQDP11",
+    "DY":"10,58",
+    "Nome":"Parque Dom Pedro Shopping Center",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"PRSN11B",
+    "DY":"11,60",
+    "Nome":"Lateres",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"PRSV11",
+    "DY":"-",
+    "Nome":"Presidente Vargas",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"PRTS11",
+    "DY":"0,05",
+    "Nome":"Multi Properties FII",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"PRZS11",
+    "DY":"-",
+    "Nome":"PRAZO - FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"PULV11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"PURB11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"PVBI11",
+    "DY":"7,57",
+    "Nome":"FDO. INV. IMOB. VBI PRIME PROPERTIES",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"QAGR11",
+    "DY":"10,52",
+    "Nome":"QUASAR AGRO - FDO INV. IMOB.",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"QAMI11",
+    "DY":"9,62",
+    "Nome":"QUASAR CR\u00c9DITO IMOBILI\u00c1RIO",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"QIFF11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"QIRI11",
+    "DY":"0,85",
+    "Nome":"QUATA IMOB RECEB\u00cdVEIS IMOB",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RBBV11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"RBCB11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"RBCO11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"RBDS11",
+    "DY":"-",
+    "Nome":"RB Capital Desenvolvimento Residencial II",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"RBED11",
+    "DY":"10,87",
+    "Nome":"Rio Bravo Renda Educacional",
+    "Categoria":"Tijolo: Educacional"
+  },
+  {
+    "Ticker":"RBFF11",
+    "DY":"9,80",
+    "Nome":"RIO BRAVO IFIX FDO INV IMOB",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"RBGS11",
+    "DY":"0,62",
+    "Nome":"",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"RBHG11",
+    "DY":"13,61",
+    "Nome":"RIO BRAVO CREDITO IMOB HIGH GRADE",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RBHY11",
+    "DY":"15,08",
+    "Nome":"RIO BRAVO CR\u00c9DITO IMOB. HIGH YIELD",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RBIR11",
+    "DY":"4,42",
+    "Nome":"RB CAPITAL DESENV. RESIDENCIAL IV FDO. INV. IMOB.",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"RBIV11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"RBLG11",
+    "DY":"10,61",
+    "Nome":"RB CAPITAL LOG\u00cdSTICO",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"RBOP11",
+    "DY":"25,44",
+    "Nome":"Mercantil do Brasil",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"RBRD11",
+    "DY":"10,71",
+    "Nome":"RB Capital Renda II",
+    "Categoria":"Tijolo: Varejo"
+  },
+  {
+    "Ticker":"RBRF11",
+    "DY":"8,88",
+    "Nome":"RBR ALPHA MULTIESTRAT\u00c9GIA REAL ESTATE FDO INV IMOB",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"RBRI11",
+    "DY":"3,56",
+    "Nome":"FII RBR III",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"RBRL11",
+    "DY":"9,20",
+    "Nome":"RBR LOG FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"RBRM11",
+    "DY":"8,06",
+    "Nome":"FDO INV IMOB - FII RBR DESENVOLVIMENTO",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"RBRP11",
+    "DY":"5,89",
+    "Nome":"RBR Properties",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"RBRR11",
+    "DY":"10,92",
+    "Nome":"RBR Rendimento High Grade",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RBRS11",
+    "DY":"8,81",
+    "Nome":"RIO BRAVO RENDA RESIDENCIAL FDO. INVEST. IMOB.",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"RBRX11",
+    "DY":"14,09",
+    "Nome":"FII RBR MULT",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"RBRY11",
+    "DY":"14,07",
+    "Nome":"FDO INV IMOB RBR PRIVATE CR\u00c9DITO IMOB",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RBTS11",
+    "DY":"33,31",
+    "Nome":"RB CAPITAL TFO SITUS FDO INV IMOB - FII",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"RBVA11",
+    "DY":"10,49",
+    "Nome":"Rio Bravo Renda Varejo",
+    "Categoria":"Tijolo: Varejo"
+  },
+  {
+    "Ticker":"RBVO11",
+    "DY":"2,88",
+    "Nome":"Rio Bravo Cr\u00e9dito Imobili\u00e1rio II",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RCFA11",
+    "DY":"-",
+    "Nome":"GRUPO RCFA FDO INV IMOB",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"RCFF11",
+    "DY":"1,43",
+    "Nome":"RBR DESENV COMERCIAL FEEDER FOF FDO INVEST IMOB",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"RCKF11",
+    "DY":"-",
+    "Nome":"ROCK \u2013 FII FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"RCRB11",
+    "DY":"5,85",
+    "Nome":"FDO INV IMOB RIO BRAVO RENDA CORPORATIVA",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"RCRI11B",
+    "DY":"1,04",
+    "Nome":"",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RDES11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"RDPD11",
+    "DY":"21,58",
+    "Nome":"BB Renda de Papeis Imobili\u00e1rios II",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RECR11",
+    "DY":"12,55",
+    "Nome":"FII REC Receb\u00edveis Imobili\u00e1rios",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RECT11",
+    "DY":"11,78",
+    "Nome":"FDO INV IMOB - FII UBS (BR) OFFICE",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"RECX11",
+    "DY":"10,35",
+    "Nome":"FDO. INV. IMOB. REC FUNDO DE FUNDOS",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"REIT11",
+    "DY":"4,49",
+    "Nome":"Socopa Fundo de Investimento Imobili\u00e1rio",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RELG11",
+    "DY":"3,00",
+    "Nome":"REC LOGISTICA",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"REON11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"RFOF11",
+    "DY":"11,19",
+    "Nome":"FDO. INVEST. IMOB. RB CAPITAL I FUNDO DE FUNDOS",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"RINV11",
+    "DY":"13,19",
+    "Nome":"",
+    "Categoria":"Fundo Misto: "
+  },
+  {
+    "Ticker":"RMAI11",
+    "DY":"4,73",
+    "Nome":"REAG MULTI ATIVOS IMOBILI\u00c1RIOS",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"RNDP11",
+    "DY":"11,17",
+    "Nome":"BB Renda de Pap\u00e9is Imobili\u00e1rios",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RNGO11",
+    "DY":"10,33",
+    "Nome":"Rio Negro",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"ROOF11",
+    "DY":"6,69",
+    "Nome":"FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO ROOFTOP I",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"RPRI11",
+    "DY":"12,57",
+    "Nome":"FII RBR PR",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RRCI11",
+    "DY":"13,92",
+    "Nome":"RB Capital Receb\u00edveis Imobili\u00e1rios",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RSPD11",
+    "DY":"8,68",
+    "Nome":"RB CAPITAL DESENV RESID III FDO INV IMOB - FII",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"RTEL11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"RURA11",
+    "DY":"13,52",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"RVBI11",
+    "DY":"10,47",
+    "Nome":"VBI REITS FOF - FDO. INV. IMOB",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"RZAG11",
+    "DY":"16,07",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"RZAK11",
+    "DY":"16,40",
+    "Nome":"RIZA AKIN",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"RZAT11",
+    "DY":"13,24",
+    "Nome":"",
+    "Categoria":"Tijolo: "
+  },
+  {
+    "Ticker":"RZDM11",
+    "DY":"1,56",
+    "Nome":"RIZA DOMUS MULTIESTRAT\u00c9GIA FDO INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"RZEO11",
+    "DY":"-",
+    "Nome":"RIZA EOS FDO DE INV NAS CAD PROD - FIAGROO",
+    "Categoria":"Fiagro: "
+  },
+  {
+    "Ticker":"RZTR11",
+    "DY":"11,53",
+    "Nome":"FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO RIZA TERRAX",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"SAAG11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"SACL11",
+    "DY":"-",
+    "Nome":"FII S CARLOS",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"SADI11",
+    "DY":"13,55",
+    "Nome":"SANTANDER PAPEIS IMOB CDI FDO INV IMOB",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"SAIC11B",
+    "DY":"-",
+    "Nome":"Sia Corporate",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"SALI11",
+    "DY":"-",
+    "Nome":"VENUS - FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"SAPI11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"SARE11",
+    "DY":"13,76",
+    "Nome":"SANTANDER RENDA DE ALUGU\u00c9IS FDO. INVEST. IMOB.",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"SBCL11",
+    "DY":"-",
+    "Nome":"FRAM CAPITAL SBCLOG",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"SCPF11",
+    "DY":"5,52",
+    "Nome":"SCP",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"SDIL11",
+    "DY":"10,00",
+    "Nome":"SDI Log\u00edstica Rio",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"SDIP11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"SEED11",
+    "DY":"12,29",
+    "Nome":"FII HEDGE SD",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"SEQR11",
+    "DY":"14,43",
+    "Nome":"SEQUOIA III RENDA IMOBILI\u00c1RIA",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"SFND11",
+    "DY":"0,12",
+    "Nome":"S\u00e3o Fernando",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"SHDP11B",
+    "DY":"-",
+    "Nome":"Shopping Parque Dom Pedro",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"SHOP11",
+    "DY":"-",
+    "Nome":"Multi Shoppings",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"SHPH11",
+    "DY":"5,93",
+    "Nome":"Shopping Patio Higienopolis",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"SHSO11",
+    "DY":"-",
+    "Nome":"FII HEDGE SH",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"SIGR11",
+    "DY":"14,66",
+    "Nome":"FII SIG CAP",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"SJAU11",
+    "DY":"-",
+    "Nome":"SJ AU LOG\u00cdSTICA",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"SLDZ11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"SNAG11",
+    "DY":"13,52",
+    "Nome":"Suno Agro",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"SNCI11",
+    "DY":"12,39",
+    "Nome":"SUNO RECEB\u00cdVEIS IMOBILI\u00c1RIOS FDO DE INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"SNEL11",
+    "DY":"3,65",
+    "Nome":"",
+    "Categoria":"Outros: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"SNFF11",
+    "DY":"9,82",
+    "Nome":"Suno Fundo de Fundos",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"SNLG11",
+    "DY":"2,98",
+    "Nome":"Suno Log Fundo de Investimento Imobiliario",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"SNME11",
+    "DY":"2,30",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: Fundos Imobili\u00e1rios"
+  },
+  {
+    "Ticker":"SOLR11",
+    "DY":"1,97",
+    "Nome":"SOLARIUM FII",
+    "Categoria":"Tijolo: Im\u00f3veis Comerciais - Outros"
+  },
+  {
+    "Ticker":"SPAF11",
+    "DY":"-",
+    "Nome":"SPA Fundo de Investimento Imobili\u00e1rio \u2013 FII",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"SPDE11",
+    "DY":"-",
+    "Nome":"WHG FINVEST SP REALTY FDO DE INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"SPMO11",
+    "DY":"0,36",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"SPTW11",
+    "DY":"12,41",
+    "Nome":"SP Downtown",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"SPVJ11",
+    "DY":"-",
+    "Nome":"FUND. INVEST. IMOB. SUCCESPAR VAREJO",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"SPXS11",
+    "DY":"13,38",
+    "Nome":"FII SPX SYN",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"SRVD11",
+    "DY":"3,08",
+    "Nome":"SERRA VERDE FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"STRX11",
+    "DY":"5,37",
+    "Nome":"STARX FDO INV IMOB",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"TBOF11",
+    "DY":"5,29",
+    "Nome":"TB Office",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"TCIN11",
+    "DY":"-",
+    "Nome":"FDO. INVEST. IMOB. TOURMALET V - ED. CIDADE NOVA",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"TCPF11",
+    "DY":"1.233,33",
+    "Nome":"TREECORP REAL ESTATE FDO INV IMOB - I",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"TELD11",
+    "DY":"-",
+    "Nome":"TELLUS DESENVOLVIMENTO LOG\u00cdSTICO",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"TELF11",
+    "DY":"-",
+    "Nome":"FII-TELF",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"TELM11",
+    "DY":"-",
+    "Nome":"TELLUS MULTIESTRAT\u00c9GIA \u2013 FDO INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"TEPP11",
+    "DY":"7,79",
+    "Nome":"TELLUS PROPERTIES - FDO INV. IMOB",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"TGAR11",
+    "DY":"13,49",
+    "Nome":"TG Ativo Real",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"THRA11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"TJKB11",
+    "DY":"11,46",
+    "Nome":"FII TJK REND",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"TMPS11",
+    "DY":"6,66",
+    "Nome":"Itau Tempus Fundo de Investimento Imobiliario",
+    "Categoria":"Fundo Misto: Pap\u00e9is"
+  },
+  {
+    "Ticker":"TORD11",
+    "DY":"2,36",
+    "Nome":"TORDESILHAS EI FDO. INV. IMOB.",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"TORM13",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"TOUR11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"TRBL11",
+    "DY":"9,53",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"TRNT11",
+    "DY":"3,62",
+    "Nome":"Torre Norte",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"TRXB11",
+    "DY":"9,73",
+    "Nome":"TRX REAL ESTATE II FDO. INVEST. IMOB.",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"TRXF11",
+    "DY":"10,23",
+    "Nome":"TRX Real Estate",
+    "Categoria":"Tijolo: Im\u00f3veis Comerciais - Outros"
+  },
+  {
+    "Ticker":"TSER11",
+    "DY":"11,36",
+    "Nome":"TISHMAN SPEYER RENDA CORPORATIVA",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"TSNC11",
+    "DY":"-",
+    "Nome":"Transinc",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"TSNM11",
+    "DY":"-",
+    "Nome":"TS NEW MARGINAL",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"TVRI11",
+    "DY":"10,31",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"UBSR11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"UMED11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"URPR11",
+    "DY":"16,32",
+    "Nome":"URCA PRIME RENDA FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"VCJR11",
+    "DY":"11,54",
+    "Nome":"VECTIS JUROS REAL FDO INV. IMOB. - FII",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"VCRA11",
+    "DY":"16,05",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"VCRI11",
+    "DY":"13,59",
+    "Nome":"FII VINCI CR",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"VCRR11",
+    "DY":"11,77",
+    "Nome":"VECTIS RENDA RESIDENCIAL",
+    "Categoria":"Tijolo: Im\u00f3veis Residenciais"
+  },
+  {
+    "Ticker":"VCTH11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"VDSV11",
+    "DY":"-",
+    "Nome":"FII VIC VIN",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"VERE11",
+    "DY":"13,90",
+    "Nome":"Vereda",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"VGHF11",
+    "DY":"13,37",
+    "Nome":"VALORA HEDGE FUND",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"VGIA11",
+    "DY":"17,14",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"VGII11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"VGIP11",
+    "DY":"11,73",
+    "Nome":"VALORA CRI \u00cdNDICE DE PRE\u00c7O FDO INVEST. IMOB. FII",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"VGIR11",
+    "DY":"14,98",
+    "Nome":"Valora RE III",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"VIDS11",
+    "DY":"-",
+    "Nome":"VIC DESENVOLVIMENTO VINTAGE 20\/21",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"VIFI11",
+    "DY":"9,88",
+    "Nome":"VINCI INSTRUMENTOS FINANCEIROS FDO INV IMOB - FII",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"VILG11",
+    "DY":"8,65",
+    "Nome":"VINCI LOG\u00cdSTICA FDO INV IMOB",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"VINO11",
+    "DY":"9,02",
+    "Nome":"VINCI OFFICES FDO INV IMOB",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"VISC11",
+    "DY":"8,77",
+    "Nome":"Vinci Shopping Centers",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"VIUR11",
+    "DY":"11,08",
+    "Nome":"VINCI IM\u00d3VEIS URBANOS",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"VJFD11",
+    "DY":"-",
+    "Nome":"JFDCAM FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO FII",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"VLIQ11",
+    "DY":"-",
+    "Nome":"FII VIFI 2",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"VLJS11",
+    "DY":"2,53",
+    "Nome":"Vector Queluz Lajes Corporativas",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"VLOL11",
+    "DY":"3,86",
+    "Nome":"Vila Ol\u00edmpia Corporate",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"VOTS11",
+    "DY":"16,29",
+    "Nome":"Votorantim Securities Master",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"VPSI11",
+    "DY":"-",
+    "Nome":"Polo Shopping Indaiatuba",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"VRTA11",
+    "DY":"11,38",
+    "Nome":"Fator Verita",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"VRTM11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"VSEC11",
+    "DY":"285,71",
+    "Nome":"FDO INV IMOB VOTORANTIM SECURITIES",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"VSHO11",
+    "DY":"10,26",
+    "Nome":"FDO INV IMOB VOTORANTIM SHOPPING",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"VSLH11",
+    "DY":"12,11",
+    "Nome":"VERSALHES RECEB\u00cdVEIS IMOBILI\u00c1RIOS",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"VTLT11",
+    "DY":"10,91",
+    "Nome":"Votorantim Log\u00edstica",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"VTPA11",
+    "DY":"-",
+    "Nome":"FDO. INVEST. IMOB. VOTORANTIM PATRIMONIAL V",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"VTPL11",
+    "DY":"-",
+    "Nome":"FDO INV. IMOB. PLUS",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"VTVI11",
+    "DY":"-",
+    "Nome":"PARKING PARTNERS FDO. INVEST. IMOB.",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"VTXI11",
+    "DY":"-",
+    "Nome":"FDO. INVEST. IMOB. VOTORANTIM PATRIMONIAL XII",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"VVCO11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"VVCR11",
+    "DY":"16,59",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"VVPR11",
+    "DY":"0,88",
+    "Nome":"FDO INV IMOB - V2 PROPERTIES",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"VVRI11",
+    "DY":"14,01",
+    "Nome":"V2 RENDA IMOBILI\u00c1RIA FDO DE INV IMOB",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"VXXV11",
+    "DY":"-",
+    "Nome":"VX XVI - FDO INV. IMOB.",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"WHGR11",
+    "DY":"12,20",
+    "Nome":"FII WHG REAL",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"WPLZ11",
+    "DY":"7,63",
+    "Nome":"Shopping West Plaza",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"WSEC11",
+    "DY":"17,29",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"WTSP11B",
+    "DY":"10,50",
+    "Nome":"Ourinvest RE I",
+    "Categoria":"Fundo Misto: Misto"
+  },
+  {
+    "Ticker":"WVSC11",
+    "DY":"0,89",
+    "Nome":"FII WARREN",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"XBXO11",
+    "DY":"-",
+    "Nome":"R CAP 1810 FUNDO DE FUNDOS",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"XPCA11",
+    "DY":"15,43",
+    "Nome":"",
+    "Categoria":"Fiagro: Fiagro"
+  },
+  {
+    "Ticker":"XPCI11",
+    "DY":"12,41",
+    "Nome":"XP CREDITO IMOBILI\u00c1RIO - FDO INV IMOB",
+    "Categoria":"Papel: Pap\u00e9is"
+  },
+  {
+    "Ticker":"XPCM11",
+    "DY":"9,58",
+    "Nome":"XP Corporate Maca\u00e9",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"XPHT11",
+    "DY":"22,95",
+    "Nome":"XP HOT\u00c9IS - FDO INV IMOB",
+    "Categoria":"Tijolo: Hot\u00e9is"
+  },
+  {
+    "Ticker":"XPIN11",
+    "DY":"9,38",
+    "Nome":"XP Industrial",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"XPLG11",
+    "DY":"8,36",
+    "Nome":"XP Log",
+    "Categoria":"Tijolo: Im\u00f3veis Industriais e Log\u00edsticos"
+  },
+  {
+    "Ticker":"XPML11",
+    "DY":"8,73",
+    "Nome":"XP Malls",
+    "Categoria":"Tijolo: Shoppings"
+  },
+  {
+    "Ticker":"XPPR11",
+    "DY":"6,64",
+    "Nome":"XP PROPERTIES FDO. INV. IMOB.",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"XPSF11",
+    "DY":"10,62",
+    "Nome":"XP SELECTION FDO DE FUNDOS INV IMOB - FII",
+    "Categoria":"Papel: Fundo de Fundos"
+  },
+  {
+    "Ticker":"XTED11",
+    "DY":"-",
+    "Nome":"TRX Edif\u00edcios Corporativos",
+    "Categoria":"Tijolo: Lajes Corporativas"
+  },
+  {
+    "Ticker":"YCHY11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Outros: Indefinido"
+  },
+  {
+    "Ticker":"YEES11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Fundos Imobili\u00e1rios: "
+  },
+  {
+    "Ticker":"YUFI11",
+    "DY":"3,49",
+    "Nome":"YUCA FDO INV. IMOB.",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  },
+  {
+    "Ticker":"ZAVC11",
+    "DY":"-",
+    "Nome":"",
+    "Categoria":"Sem categoria: "
+  },
+  {
+    "Ticker":"ZAVI11",
+    "DY":"10,27",
+    "Nome":"",
+    "Categoria":"Fundo Misto: Indefinido"
+  },
+  {
+    "Ticker":"ZIFI11",
+    "DY":"0,33",
+    "Nome":"ZION CAPITAL FUNDO DE INVESTIMENTO IMOBILI\u00c1RIO",
+    "Categoria":"Fundo Misto: Fundo de Desenvolvimento"
+  }
+]
