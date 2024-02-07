@@ -1,9 +1,11 @@
 from dash import Dash, html, dash_table, dcc
 import plotly.express as px
 import pandas as pd
+from services.getData import getData
 
 # load
-df = pd.read_csv('dados/dados_tratados.csv')
+df = getData()
+
 
 # initialize
 app = Dash(__name__)
@@ -22,6 +24,18 @@ app.layout = html.Div(id='root',children=[
             html.A('GitHub',href='https://github.com/wellington-moreira-santos',target='_blank') 
         ])  
         
+    ]),
+
+    html.Div([
+         html.H2('DY'),
+         dcc.RangeSlider(
+              id='dy-range-slider',
+              min=0,
+              max=30,
+              value=[6,12],
+              step=None,
+              marks={0:'0',5:'5',10:'10', 15:'15', 20:'20', 30:'20+'}
+         )
     ]),
 
       
