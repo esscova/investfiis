@@ -1,4 +1,4 @@
-from dash import Dash, html, dash_table, dcc
+from dash import Dash, html, dash_table, dcc, Input, Output
 import plotly.express as px
 import pandas as pd
 from services.getData import getData
@@ -6,82 +6,54 @@ from services.getData import getData
 # load
 df = getData()
 
-
 # initialize
 app = Dash(__name__)
 
-app.layout = html.Div(id='root',children=[
-     
-    html.Header([
-        html.Div(className='left', children=[
-            html.H2('Dashboard financeiro'),     
-            html.H1('Fundos imobiliários'), 
-        ]),
-         html.Div(className='right', children=[
-            html.H3('Bem vindo à minha dashboard'),     
-            html.P('Confira meus contatos'),
-            html.A('Linkedin',href='https://www.linkedin.com/in/wellington-moreira-santos', target='_blank'),
-            html.A('GitHub',href='https://github.com/wellington-moreira-santos',target='_blank') 
-        ])  
-        
-    ]),
+app.layout = html.Div(id='main',children=[
 
-    html.Div([
+    html.Div(className='slider',children=[
          html.H2('DY'),
          dcc.RangeSlider(
               id='dy-range-slider',
               min=0,
               max=30,
-              value=[6,12],
-              step=None,
-              marks={0:'0',5:'5',10:'10', 15:'15', 20:'20', 30:'20+'}
+              value=[0,35],
+              step=1,
+              marks={0:'0',5:'5',10:'10', 15:'15', 20:'20', 25:'25',30:'30',35:'35'}
          )
     ]),
-
-      
-    html.Section(className='S-cards',children=[
-         
-        html.Div(className='flex-card',children=[
-                html.Div(className='card',children=['Fundos',
-                    html.Span(className='valor',children=[f'{ df.shape[0] }'])   
-                    ]),
-                html.Div(className='card',children=['Título',
-                    html.Span([f'{round(df.DY.mean())}'])   
-                    ]),
-                html.Div(className='card',children=['Título',
-                    html.Span([f'{round(df.DY.mean())}'])   
-                    ]),
-                html.Div(className='card',children=['Título',
-                    html.Span([f'{round(df.DY.mean())}'])   
-                    ])
-        ]), 
+    html.Div(className='graphs',children=[
+         dcc.Graph(id='top'),
+         dcc.Graph(id='top-categ'),
+         dcc.Graph(id='dist'),
+         dash_table.DataTable(id='table',data=df.to_dict('records'),page_size=10)
     ]),
-
-    html.Div(className='flex',children=[  
-                               
-        html.Div(className='tabela',
-            children=[          
-                dcc.Graph(figure=px.bar(
-                    df.query('DY <= 36 & DY != 0').nlargest(10,'DY'),
-                    x='DY',
-                    y='Ticker'
-                ))        
-        ]),
-                
-        html.Div(className='histograma',
-            children=[
-                dcc.Graph(figure=px.histogram(
-                                df.query('DY <= 36 & DY != 0 '),
-                                x='Categoria',
-                                y='DY',
-                                histfunc='count'))
-        ])
-    ]),
-    html.Div(className='tabela',
-            children=[          
-                dash_table.DataTable(data=df.to_dict('records'),page_size=10)])
 ])
 
-# run
+# callbacks ===========
+@app.callback(
+     [Output('top','figure'),
+      Output('top-categ','figure'),
+      Output('dist','figure')],
+          Input('dy-range-slider','value')
+)
+
+def update_figure(selected_dy):
+     filtered_df = df[(df.DY > selected_dy[0]) & (df.DY <= selected_dy[1])]
+     
+     fig1 = px.bar(filtered_df.nlargest(15, 'DY'), x='DY',y='Ticker', title='TOP 15 Dividend Yield')
+     fig1.update_layout(transition_duration=500)
+     
+     fig2 = px.bar(filtered_df.groupby('Categoria').size().reset_index(name='Count'), x='Categoria', y='Count', title='Fundos por categoria')
+     fig2.update_layout(transition_duration=500)  
+
+     category_counts = filtered_df['Categoria'].value_counts()
+     fig3 = px.pie(names=category_counts.index, values=category_counts.values, title='Fundos por categoria')
+     fig3.update_layout(transition_duration=500)
+
+     
+     return fig1, fig2, fig3
+
+# run ==========
 if __name__ == '__main__':
      app.run(debug=True)
