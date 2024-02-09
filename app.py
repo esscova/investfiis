@@ -1,6 +1,8 @@
 from dash import Dash, html, dash_table, dcc, Input, Output
+from dash.exceptions import PreventUpdate
 import plotly.express as px
 import pandas as pd
+import urllib.parse
 from services.getData import getData
 
 # load
@@ -20,7 +22,9 @@ app.layout = html.Div(id='main',children=[
               value=[0,35],
               step=1,
               marks={0:'0',5:'5',10:'10', 15:'15', 20:'20', 25:'25',30:'30',35:'35'}
-         )
+         ),
+         html.Button("Download Dataset",id='btn'),
+         dcc.Download(id='download')
     ]),
     html.Div(className='graphs',children=[
          dcc.Graph(id='top'),
@@ -31,11 +35,27 @@ app.layout = html.Div(id='main',children=[
 ])
 
 # callbacks ===========
+
+
 @app.callback(
+
+     Output('download','data'),
+     Input('btn','n_clicks')
+)
+def download(n_clicks):
+     if n_clicks is None:
+          raise PreventUpdate
+     else:
+          return dcc.send_data_frame(df.to_csv, "dataset.csv", index=False, encoding='utf-8-sig')
+
+
+@app.callback(
+
      [Output('top','figure'),
       Output('top-categ','figure'),
       Output('dist','figure')],
-          Input('dy-range-slider','value')
+     
+     Input('dy-range-slider','value')
 )
 
 def update_figure(selected_dy):
