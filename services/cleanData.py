@@ -7,7 +7,7 @@ def cleanData(df):
     df['DY'] = df['DY'].str.replace(',','.')
     df['DY'] = df['DY'].astype(float)
 
-    df['Nome'].fillna('-', inplace=True)
+    #df['Nome'].fillna('-', inplace=True)
 
     categorias = {
     'Fiagro: ':'Fiagro',

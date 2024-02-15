@@ -13,7 +13,7 @@ Email: wsantos08@hotmail.com
 ---
 
 ## Coletando dados
-Esta aplicação irá coletar dados de fundos imobiliários do site  [fiis.com.br](https://fiis.com.br/lista-de-fundos-imobiliarios/) e exportá-los após limpeza e tratamento para `csv`, `xlsx` e `JSON`.
+Esta aplicação irá coletar dados de fundos imobiliários do site  [fiis.com.br](https://fiis.com.br/lista-de-fundos-imobiliarios/) e exportá-los após limpeza e tratamento para `csv`.
 
 
 ## Tecnologias utilizadas
