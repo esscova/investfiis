@@ -4,8 +4,10 @@
 @import 'styles/aside.css';
 @import 'styles/main.css';
 @import 'styles/header.css';
-@import 'styles/sectionCards.css';
+@import 'styles/sectionGraphs.css';
 
 .render{
     display: flex;
+    height: 100vh;
 }
+

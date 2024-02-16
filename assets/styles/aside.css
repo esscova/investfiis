@@ -1,12 +1,14 @@
 aside{
     width: 100%;
     max-width: 300px;
-    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 2rem;
     background-color: #eaeaea;
 }
 aside img{
     width: 100%;
-    max-width: 408px;
 }
 aside h2{
     text-transform: uppercase;
@@ -14,22 +16,15 @@ aside h2{
     font-weight: 400;
     color: #6D6D6D;
     padding: 10px;
-    margin-bottom: 2rem;
 }
 label{
     display: block;
     padding: 1rem;
     color:#6D6D6D;
 }
-
-aside #dy-range, #dy-categorias{
-    margin-bottom: 2rem;
-}
-
 aside button{
     display: block;
     margin: 0 auto;
-    margin-top: 10rem;
     padding: 1rem;
     width: 150px;
     background-color: green;

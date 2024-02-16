@@ -1,0 +1,17 @@
+nav{
+    margin-top: auto;
+    padding-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+nav ul {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+
+}
+nav ul li a img{
+    width: 30px;
+}

@@ -1,11 +1,8 @@
-from dash import Dash, html
+from dash import html
 
-layout = html.Header(
+layout = html.Nav(
     [
-        html.H1("Dashboard"),
-        html.Nav(
-            [
-                html.Ul(
+        html.Ul(
                     [
                         html.Li(
                             html.A(
@@ -22,8 +19,7 @@ layout = html.Header(
                             )
                         ),
                     ]
-                )
-            ]
-        ),
+                ),
+        html.P('esCova - 2024')
     ]
 )

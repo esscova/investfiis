@@ -20,12 +20,11 @@ app.layout = index.layout
 # graficos e card total
 @app.callback(
     [
-        Output('total-fiis', 'children'),
+        Output('fundos-totais-selecionados','children'),
         Output('gr-fundos-selecionados','figure'),
         Output('gr-top-10','figure'),
         Output('gr-distribuicao','figure'),
         Output('gr-means','figure'),
-    
     ],
 
     [
@@ -40,16 +39,15 @@ def update(range,categorias):
     df_final = df_filtered[(df_filtered['DY'] > range[0]) & (df_filtered['DY'] <= range[1])]
 
      
-    # criando graficos conforme dados selecionados
-    
+    # criando graficos conforme dados selecionados    
     # fundos selecionados
-    fig = px.bar(df_final, y='DY', x='Ticker',color='DY')
-    fig.update_layout(xaxis={"title":"Fundos selecionados",'tickangle':45})
+    fig = px.bar(df_final, y='DY', x='Ticker',color='DY',title='Fundos')
+    fig.update_layout(xaxis={'tickangle':45})
     fig.update_layout(transition_duration=500)
 
     # top-10
     df_top = df_final.sort_values(by='DY',ascending=False).head(10)
-    figTop = px.bar(df_top, y='DY',x='Ticker',title='Top-10',color='Categoria')
+    figTop = px.bar(df_top, x='DY',y='Ticker',title='Top-10')
     figTop.update_layout(transition_duration=500)
 
     # pizza 
@@ -59,10 +57,10 @@ def update(range,categorias):
 
     # medias dy por categoria
     df_means = df_final.groupby('Categoria')['DY'].mean().reset_index()
-    figMeans = px.line(df_means,y='DY',x='Categoria',markers='o')
+    figMeans = px.line(df_means,y='DY',x='Categoria',markers='o',title='DY médio por categoria')
     figMeans.update_layout(transition_duration=500)
     
-    return [f'{df_final.shape[0]}',fig,figTop,figPie,figMeans]
+    return df_final.shape[0],fig,figTop,figPie,figMeans
 
 # download CSV
 @app.callback(

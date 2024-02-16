@@ -1,4 +1,49 @@
-main{
-    flex-grow: 1;
-    padding: 20px;
+main {
+    width: 100%;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto auto 1fr 1fr;
+    gap: 5px;
+    grid-template-areas:
+    "drop range range"
+    "card card card"
+    "g1 g2 g3"
+    "g4 g4 g4";
+}
+
+.card,
+.drop,
+.range,
+#gr-fundos-selecionados,
+#gr-means,
+#gr-top-10,
+#gr-distribuicao {
+    border: 1px solid #eaeaea;
+    padding: 5px;
+}
+
+.card {
+    text-align: center;
+    padding: 5px 0;
+    background-color: #eaeaea;
+    color: #6d6d6d;
+}
+.drop{
+    grid-area: drop;
+}
+.range{
+    grid-area: range;
+}
+#gr-fundos-selecionados{
+    grid-area: g4;
+}
+#gr-means{
+    grid-area: g3;
+}
+#gr-top-10{
+    grid-area: g1;
+}
+#gr-distribuicao{
+    grid-area: g2;
 }
