@@ -12,7 +12,7 @@ from src.components import (
 )
 df = getData()
 layout = html.Div(
-    [
+    [        
         html.Aside(
             [
                 AsideLogo.layout,
