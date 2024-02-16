@@ -14,6 +14,7 @@ df = getData()
 
 # app
 app = Dash(__name__)
+server = app.server
 app.layout = index.layout
 
 # callbacks
