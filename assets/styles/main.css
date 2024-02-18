@@ -47,3 +47,13 @@ main {
 #gr-distribuicao{
     grid-area: g2;
 }
+@media screen and (max-width: 480px){
+    main{
+        display: flex;
+        flex-direction: column;
+    }
+    main nav{
+        margin-top: 2rem;
+    }
+        
+}

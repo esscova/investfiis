@@ -21,5 +21,6 @@ layout = html.Nav(
                     ]
                 ),
         html.P('esCova - 2024')
-    ]
+    ],
+    className='nav-links'
 )

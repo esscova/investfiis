@@ -34,6 +34,7 @@ layout = html.Div(
                 dcc.Graph(id="gr-top-10"),
                 dcc.Graph(id="gr-distribuicao"),
                 dcc.Graph(id="gr-means"),
+                Nav.layout,
             ]
         ),
     ],
