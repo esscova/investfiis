@@ -1,0 +1,21 @@
+
+button{
+    display: block;
+    margin: 0 auto;
+    padding: 1rem;
+    width: 150px;
+    background-color: green;
+    color: #fff;
+    border: none;
+    font-size: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .5s all ease-in-out;
+}
+button:hover{
+    background-color: darkgreen;
+}
+
+.btn-download {
+    grid-area: btn;
+}

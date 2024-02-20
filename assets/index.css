@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@200;400;600&display=swap');
+@import 'styles/reset.css';
+
+
+
+@media (min-width:1025px) {
+
+    .root {
+        padding: 10px;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: auto;
+        gap: 10px;
+        grid-template-areas:
+            "logo title title title"
+            "logo drop  range range"
+            "logo cards cards cards"
+            "g1   g1    g1    g1"
+            "g2   g2    g3    g3"
+            "g4   g4    g4    g4"
+            "nav  nav   nav   nav"
+        ;
+    }
+    .root>* {
+        border: 1px solid #eaeaea;
+    }
+    .title{
+        display: flex;
+    }
+}
+
+@media (min-width:768px) and (max-width:1024px) {
+    
+    .logo{
+        height:270px;
+        object-fit: contain;
+        background-color:#1E1E1E;
+    }
+    .title{
+        display: none;
+    }
+}
+
+@media (min-width:320px) and (max-width:767px){
+    .logo{
+        height: 255px;
+        object-fit: contain;
+        background-color: #1E1E1E;
+    }
+    .title{
+        display: none;
+    }
+} 

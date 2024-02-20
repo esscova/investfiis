@@ -15,3 +15,7 @@ nav ul {
 nav ul li a img{
     width: 30px;
 }
+.nav-links {
+    grid-area: nav;
+    
+}

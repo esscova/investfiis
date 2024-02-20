@@ -1,0 +1,36 @@
+.drop {
+    grid-area: drop;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.range {
+    grid-area: range; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+
+label{
+    display: block;
+    padding: 1rem;
+    color:#6D6D6D;
+}
+
+#gr-fundos-selecionados {
+    grid-area: g1;
+}
+
+#gr-top-10 {
+    grid-area: g2;
+}
+
+#gr-distribuicao {
+    grid-area: g3;
+}
+
+#gr-means {
+    grid-area: g4;
+}

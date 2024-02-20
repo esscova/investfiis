@@ -1,0 +1,13 @@
+.cards {
+    grid-area: cards;
+    background-color: #eaeaea;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card {
+    text-align: center;
+    padding: 10px;
+    color: #6d6d6d;
+}
