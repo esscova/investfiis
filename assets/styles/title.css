@@ -1,8 +1,0 @@
-.title {
-    padding: 10px;
-    grid-area: title;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    color: #6d6d6d;
-}

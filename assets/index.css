@@ -1,14 +1,92 @@
 @import url('https://fonts.googleapis.com/css2?family=Sora:wght@200;400;600&display=swap');
 @import 'styles/reset.css';
 
+.root{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+} 
+
+.logo {
+    grid-area: logo;
+    width: 100%;
+}
+
+.title {
+    padding: 10px;
+    grid-area: title;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #6d6d6d;
+}
+
+.drop {
+    grid-area: drop;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.range {
+    grid-area: range; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+
+.btn-download {
+    grid-area: btn;
+}
+
+.cards {
+    grid-area: cards;
+    background-color: #eaeaea;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card {
+    text-align: center;
+    padding: 10px;
+    color: #6d6d6d;
+}
+
+#gr-fundos-selecionados {
+    grid-area: g1;
+}
+
+#gr-top-10 {
+    grid-area: g2;
+}
+
+#gr-distribuicao {
+    grid-area: g3;
+}
+
+#gr-means {
+    grid-area: g4;
+}
+
+.nav-links {
+    grid-area: nav;
+    
+}
+
+label{
+    display: block;
+    padding: 1rem;
+    color:#6D6D6D;
+}
 
 
-@media (min-width:1025px) {
-
+@media (min-width:1025px) {   
     .root {
         padding: 10px;
         display: grid;
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: 300px repeat(3, 1fr);
         grid-template-rows: auto;
         gap: 10px;
         grid-template-areas:
@@ -21,7 +99,7 @@
             "nav  nav   nav   nav"
         ;
     }
-    .root>* {
+    .root > *:not(:nth-child(2)):not(:last-child) {
         border: 1px solid #eaeaea;
     }
     .title{

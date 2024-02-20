@@ -15,6 +15,7 @@ df = getData()
 # app
 app = Dash(__name__)
 server = app.server
+app.title='Dashboard - Invest.Fiis'
 app.layout = index.layout
 
 # callbacks
@@ -78,4 +79,4 @@ def download(n_clicks):
         )
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)

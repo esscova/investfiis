@@ -12,10 +12,10 @@ from src.components import (
 
 df = getData()
 layout = html.Div(
-    [      
-        html.Title('Invest.Fiis'),
-        html.Link(rel='icon',type='image/x-icon',href='../../assets/img/favicon.png'),
-        html.Img(src="../../assets/img/logo.png",className='logo'),
+    [   
+        html.Img(src="../../assets/img/logo.png",
+            className='logo'),
+        
         html.Div(
             [
                 html.H1('DASHBOARD'),
@@ -45,5 +45,5 @@ layout = html.Div(
         dcc.Graph(id="gr-means"),
         Nav.layout,
     ],
-    className="root",
+    className="root",     
 )
